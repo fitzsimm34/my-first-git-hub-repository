@@ -1,3 +1,5 @@
-	another file in the local repository
+	This line was replaced in feature-2 branch
 	
 	This file has was updated in the remote repository on 10/4/2020
+
+	This file was modified in feature-2 branch
